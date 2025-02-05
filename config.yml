@@ -1,5 +1,5 @@
 baseURL: "https://hannahismael/hugo-website/" 
-title: Hannah Ismael
+title: "Hannah Ismael"
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -11,16 +11,16 @@ taxonomies:
 menu:
     main:
         - name: Publications
-          url: books/
+          url: publications/
           weight: 5 
         - name: Projects
-          url: papers/
+          url: projects/
           weight: 2
         - name: CV
-          url: courses/
+          url: CV/
           weight: 3
         - name: Personal Interests
-          url: data/
+          url: personal/
           weight: 4 
         - #name: 
           #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
@@ -52,7 +52,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Hannah Ismael
+          title: "Hannah Ismael"
           subtitle: "I am primarily interested in the intersection between public interest issues–privacy, transparency, and security–and market dynamics in AI systems. I enjoy conceptualizing solutions that increase access to AI supply chain resources and center public interest within our AI governance framework. I’m excited to explore antitrust, IP doctrinal, and policy considerations as solutions. "
           imageUrl: "picture.jpeg"
           imageWidth: 160
@@ -101,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Hannah Ismael"
       icon: favicon.ico
       iconHeight: 18
 
