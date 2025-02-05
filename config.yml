@@ -12,7 +12,7 @@ menu:
     main:
         - name: Publications
           url: publications/
-          weight: 5 
+          weight: 1 
         - name: Projects
           url: projects/
           weight: 2
@@ -42,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["publications","projects","CV","personal"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -58,42 +58,42 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Publications
+              url: publications/
+            - name: Projects
+              url: projects/
+            - name: CV
+              url: CV/
+            - name: Personal Interests
+              url: personal/
+            - #name: Tags
+              #url: tags/
+            - #name: Archive
+              #url: archive/
+            - #name: Blog
+              #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        - name: Linkedin
+          url: https://www.linkedin.com/in/hannah-ismael-55bab420b/
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:hannahismael42@berkeley.edu
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+        - #name: Location
+          #url: location/
+        - #name: Office Hours
+          #url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://scholar.google.com/citations?user=4T2VgpwAAAAJ&hl=en
+        - #name: GitHub
+          #url: https://github.com/pmichaillat
+        - #name: Substack
+          #url: https://pmichaillat.substack.com
+        - #name: YouTube
+          #url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        - #name: Twitter
+          #url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true
