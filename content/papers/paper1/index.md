@@ -31,12 +31,4 @@ As diffusion models emerge as a new frontier in generative AI, requiring vast im
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
-
-
----
-
-
-
-##### Related material
 
