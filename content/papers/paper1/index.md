@@ -1,18 +1,18 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
+title: "Examining Generative Image Models Amidst Privacy Regulations" 
+#date: 2013-01-15
+#lastmod: 2024-07-12
+#tags: ["philology","oleic science","history of oil","Mediterranean world"]
+author: ["Hannah Ismael"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+summary: "This paper reviews how privacy regulations in the US and EU may apply to generative image models. The paper explores market and public interest implications of different privacy law interpretations." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    #image: "paper1.png"
+    alt: "Examining Generative Image Models Amidst Privacy Regulations"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://www.degruyter.com/document/doi/10.1515/jigs-2024-0009/html?lang=en&srsltid=AfmBOoqIFPlQmkP_J8Swe-cHz_upx93dHvg7oBOaXxYJ9IQaLo4SWsG3"
+    Text: "Journal of Integrated Global Stem"
 
 ---
 
@@ -28,35 +28,16 @@ editPost:
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As diffusion models emerge as a new frontier in generative AI, requiring vast image databases as their inputs, the question arises: how should regulators approach policies concerning the collection and utilization of these images? Though generative image models currently interpret the data they scrape as public, regulatory bodies have yet to confirm this as a viable understanding. This paper explores the current public/personal distinction of data as well as the respective legal standards for both categories in both the American and European context. This paper acts as a guide for regulators seeking to understand monopolization and privacy implications of confirming the validity of using open sourced images versus imagining a reality of curated or licensed datasets amidst outrage from artists over a breach of an expectation of collection/use to their artwork. Though arguments have been made regarding using copyright to protect artists, this paper seeks to explore other pathways for regulating generative image models under our current conceptual frameworks of privacy.
 
 ---
 
 ##### Figure 6: Some Uses For Olive Oil
 
-![](paper1.png)
 
 ---
 
-##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
-```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
-
----
 
 ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
