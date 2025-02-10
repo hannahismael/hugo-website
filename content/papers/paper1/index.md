@@ -1,7 +1,7 @@
 ---
 title: "Examining Generative Image Models Amidst Privacy Regulations" 
 #url: /publications/examining-generative-image-models/
-#date: 2013-01-15
+date: "October 2023"
 #lastmod: 2024-07-12
 #tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Hannah Ismael"]

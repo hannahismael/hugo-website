@@ -1,6 +1,7 @@
 ---
-title: "Cascading Secrecy: Tensions between IP and Transparency Objectives" 
-#date: 2004-12-28
+title: "Cascading Secrecy: Tensions between IP and Transparency Objectives"
+subtitle: "This paper has been accepted to the 2024 UN Internet Governance Forum. It's online publication is not available yet, but a link will be added when it has been published." 
+date: "December 2024"
 #lastmod: 2024-07-12
 #tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Hannah Ismael", "Ziyaad Bhorat"]
@@ -11,7 +12,7 @@ cover:
     alt: "Cascading Secrecy"
     relative: false
 editPost:
-    #URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "#"
     Text: "2024 UN Internet Governance Forum Giganet's Symposium"
 
 ---
