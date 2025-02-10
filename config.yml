@@ -22,9 +22,7 @@ menu:
         - name: Personal Interests
           url: personal/
           weight: 4 
-        - #name: 
-          #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          #weight: 6
+    
 
 params:
     description: "I am primarily interested in the intersection between public interest issues–privacy, transparency, and security–and market dynamics in AI systems. I enjoy conceptualizing solutions that increase access to AI supply chain resources and center public interest within our AI governance framework. I’m excited to explore antitrust, IP doctrinal, and policy considerations as solutions. "
@@ -66,13 +64,7 @@ params:
               url: CV/
             - name: Personal Interests
               url: personal/
-            - #name: Tags
-              #url: tags/
-            - #name: Archive
-              #url: archive/
-            - #name: Blog
-              #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
+        
     socialIcons:
         - name: Linkedin
           url: https://www.linkedin.com/in/hannah-ismael-55bab420b/
@@ -80,20 +72,9 @@ params:
           url: mailto:hannahismael42@berkeley.edu
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
-        - #name: Location
-          #url: location/
-        - #name: Office Hours
-          #url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=4T2VgpwAAAAJ&hl=en
-        - #name: GitHub
-          #url: https://github.com/pmichaillat
-        - #name: Substack
-          #url: https://pmichaillat.substack.com
-        - #name: YouTube
-          #url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - #name: Twitter
-          #url: https://twitter.com/McCallSmith
+      
 
     assets:
         disableScrollBarStyle: true
