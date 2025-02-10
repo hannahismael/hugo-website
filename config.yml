@@ -11,10 +11,10 @@ taxonomies:
 menu:
     main:
         - name: Publications
-          url: publications/
+          url: papers/
           weight: 1 
         - name: Projects
-          url: projects/
+          url: books/
           weight: 2
         - name: CV
           url: CV/
@@ -57,9 +57,9 @@ params:
           imageHeight: 160
           buttons:
             - name: Publications
-              url: publications/
+              url: papers/
             - name: Projects
-              url: projects/
+              url: books/
             - name: CV
               url: CV/
             - name: Personal Interests
