@@ -1,18 +1,18 @@
 ---
-title: "Portugese Irregular Verbs" 
-date: 1997-01-01
-lastmod: 2024-05-08
-tags: ["Portugese","irregular verbs","philology"]
-author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+title: "What is the relationship between race and the likelihood of getting stopped under stop-and-search laws in London?" 
+date: 2023-04-01
+#lastmod: 2024-05-08
+#tags: ["Portugese","irregular verbs","philology"]
+author: ["Aniket Kapadia, Hannah Ismael, Lydia Sidhom, Sarah Zhang"]
+#description: "This book discusses Portugese irregular verbs in great details."
+summary: "Legalst 123 project"
 cover:
-    image: "book1.png"
-    alt: "Portugese Irregular Verbs"
+    image: "london_race.jpeg"
+    alt: "What is the relationship between race and the likelihood of getting stopped under stop-and-search laws in London?"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Regensburg University Press"
+    #URL: "https://github.com/pmichaillat/hugo-website"
+    #Text: "Regensburg University Press"
 showToc: false
 disableAnchoredHeadings: false
 
@@ -22,57 +22,29 @@ disableAnchoredHeadings: false
 
 #### Description
 
-This book discusses Portugese irregular verbs in great details. It is the seminal work on Romance philology.[^1] The book is the result of years of research into the etymology and vagaries of Portuguese verbs.[^2] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project explores the relationship between race and the likelihood of being stopped under stop-and-search laws in London. While racial disparities in policing have been extensively studied in the U.S., similar patterns in the U.K. remain underexplored. Our objective was to analyze how the racial makeup and police density in different London boroughs influence stop-and-search practices. Using data from the London Metropolitan Police and census reports, we applied computational techniques to investigate whether specific racial groups are disproportionately targeted and how these patterns vary across boroughs with different demographic compositions.
 
 [^1]: The acknowledged aim of the book is to dwarf all other books in the field.
 [^2]: As a result of such intensive research, the book's length is almost twelve hundred pages.
 
 ---
 
-#### Praise
+#### Some Questions We Explored:
 
-> There is nothing more to be said on this subject. Nothing – Anonymous reviewer
+- What is the relationship between race and the likelihood of being stopped under stop-and-search laws in London?
 
----
+- How does police density in different boroughs influence the frequency of stop-and-searches across racial groups?
 
-#### View
-
-+ [Chapter 1: History of the Portuguese language](chapter1.pdf)
-+ [Chapter 2: Review of regular verbs](chapter2.pdf)
-+ [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
+- Do boroughs with varying racial compositions show significant differences in stop-and-search patterns?
 
 ---
 
-#### Excerpt from Chapter 1: Basic mathematical results from Portuguese philology
+#### Methodology:
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit $x\in \mathbb{N}$. Proin ac libero nec eros accumsan sagittis: $x^\ast = \max f(x)$. Fusce gravida $4 \ln(x+y) =4 \int \ln(x^2)dx$, lectus nec aliquet malesuada, augue dui lacinia velit, eget ullamcorper lorem lorem id turpis. Nam interdum est id venenatis fermentum: . Nullam fermentum, arcu eu luctus fermentum, felis orci pretium mi, eu bibendum ligula neque in metus. 
-
-$$1+\lambda\exp{\frac{\beta}{\alpha^2}} = \max_{t\in\mathbb{R}}(x(t)-y(t)+z(t)^2).$$
-
-Nulla facilisi. Phasellus pharetra ligula sit amet diam viverra, sed scelerisque ligula cursus. Curabitur sit amet libero eu velit fringilla vulputate, $2\ln(x)$. Suspendisse potenti. Quisque imperdiet arcu ac nibh gravida, id posuere ligula efficitur. Curabitur posuere, dui at finibus viverra, felis justo pulvinar urna, id finibus sem purus eget orci.
-
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris vel neque at lorem fermentum tincidunt: $<x,y> = 2x^2 + \mathcal{A}$. Etiam volutpat, risus at aliquet varius, sapien quam vulputate lectus, id ultrices lorem arcu ut magna. Sed malesuada scelerisque dignissim. Aliquam erat volutpat. Proin efficitur tincidunt nulla, a convallis magna cursus sit amet. Donec eget convallis libero. Pellentesque tincidunt nunc et nisi lacinia, quis auctor lorem suscipit: 
-
-$$2\exp(\gamma) = 2\exp(\zeta/3) = 2\exp(\kappa).$$
-
-Praesent at eros a sapien sagittis scelerisque at a nulla. Aliquam erat volutpat. In hac habitasse platea dictumst. Phasellus congue vestibulum nisl, vitae accumsan est. Suspendisse potenti. In ut nunc ac quam congue cursus. Duis fermentum hendrerit eros, ut auctor velit pharetra ut. Nulla facilisi. Cras at convallis purus, a convallis mauris. Donec id est vel ipsum hendrerit laoreet.
+We combined stop-and-search data with census demographics and police workforce statistics from 2022. Officer-defined racial categories—White, Black, Asian, and Other—were used to align our analysis with how police perceive race. Using Python, we cleaned and merged datasets, calculated police density by dividing the number of officers by borough population, and created proportional racial breakdowns for each borough. We employed Ordinary Least Squares, Ridge Regression, and LASSO to model the relationship between racial demographics, police density, and stop-and-search frequencies. Each model was trained separately on racial groups, allowing us to evaluate whether the predictors systematically affected certain groups more than others.
 
 ---
 
-#### Citation
+#### Conclusion:
 
-Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, Germany: Regensburg University Press. http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs.
-
-```BibTeX
-@book{I97,
-author = {Moritz-Maria von Igelfeld},
-year = {1997},
-title = {Portugese Irregular Verbs},
-publisher = {Regensburg University Press},
-address = {Regensburg, Germany},
-url = {http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs}}
-```
+Our models revealed varying relationships between race, police density, and stop-and-search frequency. For Asian and Black populations, increased police density generally correlated with fewer stop-and-searches, while higher population proportions of these groups led to more frequent stops. The LASSO model indicated stronger relationships for Asian populations, suggesting potential biases. However, the limited dataset (32 boroughs) posed challenges, with high model errors suggesting other unmeasured variables like socioeconomic status or officer discretion may play a role. While our findings suggest possible racial profiling, more granular data is needed to draw definitive conclusions.
