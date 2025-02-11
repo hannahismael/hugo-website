@@ -27,6 +27,6 @@ Published in a special edition of Compiler magazine for the 2025 Paris AI Action
 
 ##### Download
 
-Link to come upon publication
++ [Paper](paper3.pdf)
 
 ---
