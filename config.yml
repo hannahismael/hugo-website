@@ -17,7 +17,7 @@ menu:
           url: books/
           weight: 2
         - name: CV
-          url: cv.pdf
+          url: static/cv.pdf
           weight: 3
         - name: Personal Interests
           url: personal/
@@ -61,7 +61,7 @@ params:
             - name: Projects
               url: books/
             - name: CV
-              url: cv.pdf
+              url: static/cv.pdf
             - name: Personal Interests
               url: personal/
         
@@ -70,8 +70,6 @@ params:
           url: https://www.linkedin.com/in/hannah-ismael-55bab420b/
         - name: Email
           url: mailto:hannahismael42@berkeley.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=4T2VgpwAAAAJ&hl=en
       
