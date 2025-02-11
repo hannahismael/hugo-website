@@ -1,7 +1,7 @@
 ---
 title: "We Need to Rethink Trade Secrecy to Build Better AI" 
 subtitle: "Trade secrecy isn’t just about keeping AI models under wraps—it actively encourages secrecy, stifles competition, and limits innovation." 
-date: "Feb 2025"
+date: "2025-02-1"
 #lastmod: 2024-10-18
 #tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
 author: ["Hannah Ismael"]
@@ -16,6 +16,10 @@ editPost:
     Text: "Compiler Magazine"
 
 ---
+
+---
+
+This paper was published in a special edition of Compiler magazine for the 2025 Paris AI Action Summit.Trade secrecy isn’t just about keeping AI models under wraps—it actively encourages secrecy, stifles competition, and limits innovation.
 
 ---
 

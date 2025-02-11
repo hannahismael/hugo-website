@@ -1,11 +1,11 @@
 ---
 title: "Examining Generative Image Models Amidst Privacy Regulations" 
 #url: /publications/examining-generative-image-models/
-date: "October 2023"
+date: "2023-10-01"
 #lastmod: 2024-07-12
 #tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Hannah Ismael"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
+#description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
 summary: "This paper reviews how privacy regulations in the US and EU may apply to generative image models. The paper explores market and public interest implications of different privacy law interpretations." 
 cover:
     #image: "paper1.png"
