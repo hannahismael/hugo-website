@@ -40,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications","projects","CV","personal"]
+    #MainSections: ["publications","projects","CV","personal"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
