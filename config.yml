@@ -17,7 +17,7 @@ menu:
           url: books/
           weight: 2
         - name: CV
-          url: CV/
+          url: cv.pdf
           weight: 3
         - name: Personal Interests
           url: personal/
@@ -61,7 +61,7 @@ params:
             - name: Projects
               url: books/
             - name: CV
-              url: CV/
+              url: cv.pdf
             - name: Personal Interests
               url: personal/
         
