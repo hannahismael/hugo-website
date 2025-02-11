@@ -24,8 +24,6 @@ disableAnchoredHeadings: false
 
 This project explores the relationship between race and the likelihood of being stopped under stop-and-search laws in London. While racial disparities in policing have been extensively studied in the U.S., similar patterns in the U.K. remain underexplored. Our objective was to analyze how the racial makeup and police density in different London boroughs influence stop-and-search practices. Using data from the London Metropolitan Police and census reports, we applied computational techniques to investigate whether specific racial groups are disproportionately targeted and how these patterns vary across boroughs with different demographic compositions.
 
-[^1]: The acknowledged aim of the book is to dwarf all other books in the field.
-[^2]: As a result of such intensive research, the book's length is almost twelve hundred pages.
 
 ---
 
