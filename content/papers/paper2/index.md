@@ -5,7 +5,7 @@ date: "2024-12-01"
 #tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Hannah Ismael", "Ziyaad Bhorat"]
 description: "This paper has been accepted to the 2024 UN Internet Governance Forum. It's online publication is not available yet, but a link will be added when it has been published." 
-summary: "This paper how secrecy compounds across the AI supply chain, and the effects this has on the public interest and innovation." 
+summary: "This paper explores how secrecy compounds across the AI supply chain, and the effects this has on the public interest and innovation." 
 cover:
     #image: "paper2.png"
     alt: "Cascading Secrecy"
