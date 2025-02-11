@@ -19,7 +19,9 @@ editPost:
 
 ---
 
-This paper was published in a special edition of Compiler magazine for the 2025 Paris AI Action Summit.Trade secrecy isn’t just about keeping AI models under wraps—it actively encourages secrecy, stifles competition, and limits innovation.
+##### Description
+
+Published in a special edition of Compiler magazine for the 2025 Paris AI Action Summit, this paper explores how trade secrecy extends beyond keeping AI under wraps—it actively encourages secrecy, stifles competition, and limits innovation.
 
 ---
 

@@ -18,9 +18,10 @@ editPost:
 
 ---
 
-This paper how secrecy compounds across the AI supply chain, and the effects this has on the public interest and innovation.
+##### Description
+This paper explores how secrecy compounds across the AI supply chain and its implications for the public interest and innovation.
 
-This paper has been accepted to the 2024 UN Internet Governance Forum. It's online publication is not available yet, but a link will be added when it has been published.
+It has been accepted for presentation at the 2024 UN Internet Governance Forum. The online publication is forthcoming, and a link will be provided once it becomes available.
 
 ---
 
