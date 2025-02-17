@@ -12,7 +12,7 @@ cover:
     alt: "We Need to Rethink Trade Secrecy to Build Better AI"
     relative: false
 editPost:
-    URL: "#"
+    URL: "https://www.compiler.news/trade-secrecy-openai/"
     Text: "Compiler Magazine"
 
 ---
