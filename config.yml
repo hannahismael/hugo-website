@@ -1,4 +1,4 @@
-baseURL: "https://hannahismael/hannahismael/" 
+baseURL: "https://hannahismael/hugo-website/" 
 title: "Hannah Ismael"
 theme: PaperMod
 
@@ -25,7 +25,7 @@ menu:
     
 
 params:
-    description: "I am primarily interested in the interplay between public interest issues—privacy, transparency, and security—and market dynamics in AI systems. I enjoy conceptualizing solutions that increase access to AI supply chain resources and prioritize public interest within AI governance frameworks. To support these goals, I’m excited to explore changes to antitrust law, intellectual property doctrine, and public policy."
+    description: "Broadly, I am interested in investigating how law and policy can be built to enable knowledge sharing, access to AI supply chain resources, and transparent model development. I hope to explore where existing frameworks fall short in creating an internet that meaningfully balances considerations such as privacy, transparency, security, and innovation. In the past, this has led me to focus on IP law, privacy regulations, and antitrust law. Additionally, in light of AI becoming a central priority in many national strategies, I’m particularly interested in how AI policy positions reveal underlying geopolitical concerns."
     author: Hannah Ismael
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -51,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: "Hannah Ismael"
-          subtitle: "I am primarily interested in the interplay between public interest issues—privacy, transparency, and security—and market dynamics in AI systems. I enjoy conceptualizing solutions that increase access to AI supply chain resources and prioritize public interest within AI governance frameworks. To support these goals, I’m excited to explore changes to antitrust law, intellectual property doctrine, and public policy."
+          subtitle: "Broadly, I am interested in investigating how law and policy can be built to enable knowledge sharing, access to AI supply chain resources, and transparent model development. I hope to explore where existing frameworks fall short in creating an internet that meaningfully balances considerations such as privacy, transparency, security, and innovation. In the past, this has led me to focus on IP law, privacy regulations, and antitrust law. Additionally, n light of AI becoming a central priority in many national strategies, I’m particularly interested in how AI policy positions reveal underlying geopolitical concerns."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
