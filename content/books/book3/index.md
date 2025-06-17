@@ -22,7 +22,9 @@ disableAnchoredHeadings: false
 
 #### Description
 
-This is in the works! Updates to come.
+"In light of AI fundamentally changing how artists' work are valued and created, we hosted [Mozilla's Imaginative Intelligences](https://berggruen.org/projects/imaginative-intelligences), a series of creative assemblies aimed at bringing together artists, technologists, and media executives together to discuss consent, attribution, and compensation. The goal of these assemblies was to bring creatives (from across various media sectors) to the forefront of these discussions, so that future work and policy can meaningfully address their concerns. 
+
+Future build outs are in the works and this page will be updated as our work develops."
 
 
 ---
