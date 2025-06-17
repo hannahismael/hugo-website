@@ -11,8 +11,8 @@ cover:
     alt: "Cascading Secrecy"
     relative: false
 editPost:
-    URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5256463"
-    Text: "2024 UN Internet Governance Forum's Giganet Symposium Preprint"
+    URL: "#"
+    Text: "2024 UN Internet Governance Forum's Giganet Symposium"
 
 ---
 
