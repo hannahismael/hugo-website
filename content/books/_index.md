@@ -22,10 +22,8 @@ disableAnchoredHeadings: false
 
 #### Description
 
-This is apart of some wonderful ongoing work Dr. Sarah Cen is leading at Stanford's Reglab.
-
+This is apart of some wonderful ongoing work Dr. Sarah Cen is leading at Stanford's [Reglab](https://reglab.stanford.edu). 
 
 ---
-
 
 
