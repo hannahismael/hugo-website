@@ -39,7 +39,7 @@ This project explores the relationship between race and the likelihood of being 
 
 #### Methodology:
 
-We combined stop-and-search data with census demographics and police workforce statistics from 2022. Officer-defined racial categories—White, Black, Asian, and Other—were used to align our analysis with how police perceive race. Using Python, we cleaned and merged datasets, calculated police density by dividing the number of officers by borough population, and created proportional racial breakdowns for each borough. We employed Ordinary Least Squares, Ridge Regression, and LASSO to model the relationship between racial demographics, police density, and stop-and-search frequencies. Each model was trained separately on racial groups, allowing us to evaluate whether the predictors systematically affected certain groups more than others.
+We combined stop-and-search data with census demographics and police workforce statistics from 2022. Officer-defined racial categories—White, Black, Asian, and Other—were used to align our analysis with how police perceive race. We cleaned and merged the data, calculated police density, and created proportional racial breakdowns for each borough. We used Ordinary Least Squares, Ridge Regression, and LASSO to model the relationship between racial demographics, police density, and stop-and-search frequencies. Each model was trained separately on racial groups, allowing us to evaluate whether the predictors systematically affected certain groups more than others.
 
 ---
 

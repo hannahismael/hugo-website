@@ -10,11 +10,11 @@ Here are some photos from trekking, climbing, and travels. Last year, I spent 5 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="flex: 1; max-width: 45%;">
-    <img src="images/lee_vining.jpeg" alt="Lee Vining with my nine housemates!" style="width: 100%; height: auto;">
+    <img src="images/lee_vining.jpeg" alt="Lee Vining" style="width: 100%; height: auto;">
     <p style="text-align: center;">Lee Vining, CA</p>
   </div>
   <div style="flex: 1; max-width: 45%;">
-    <img src="images/half_dome1.jpeg" alt="On the top of Half Dome" style="width: 100%; height: auto;">
+    <img src="images/half_dome1.jpeg" alt="Half Dome" style="width: 100%; height: auto;">
     <p style="text-align: center;">Top of Half Dome</p>
   </div>
 </div>
@@ -23,11 +23,11 @@ Here are some photos from trekking, climbing, and travels. Last year, I spent 5 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="flex: 1; max-width: 30%;">
-    <img src="images/off_width.jpeg" alt="After my first off-width climb– Joshua Tree, CA" style="width: 100%; height: auto;">
+    <img src="images/off_width.jpeg" alt="Joshua Tree, CA" style="width: 100%; height: auto;">
     <p style="text-align: center;">Joshua Tree, CA</p>
   </div>
   <div style="flex: 1; max-width: 30%;">
-    <img src="images/middle_pal.jpeg" alt="Middle Palisade, 14er in CA" style="width: 100%; height: auto;">
+    <img src="images/middle_pal.jpeg" alt="Middle Palisade" style="width: 100%; height: auto;">
     <p style="text-align: center;">Middle Palisade, 3rd class route</p>
   </div>
   <div style="flex: 1; max-width: 30%;">
