@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Books on Moritz-Maria von Igelfeld</title>
-    <link>https://pascalmichaillat.org/hugo-website/books/</link>
-    <description>Recent content in Books on Moritz-Maria von Igelfeld</description>
-    <generator>Hugo -- 0.139.0</generator>
+    <title>Books on Hannah Ismael</title>
+    <link>http://localhost:1313/hugo-website/books/</link>
+    <description>Recent content in Books on Hannah Ismael</description>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pascalmichaillat.org/hugo-website/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Portugese Irregular Verbs</title>
-      <link>https://pascalmichaillat.org/hugo-website/books/book1/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/books/book1/</guid>
-      <description>This book discusses Portugese irregular verbs in great details.</description>
+      <title>Evidentiary Burdens and AI Models</title>
+      <link>http://localhost:1313/hugo-website/books/book4/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/books/book4/</guid>
+      <description>This is part of ongoing work Dr. Sarah Cen is leading at Stanford&amp;rsquo;s &lt;a href=&#34;https://reglab.stanford.edu&#34; target=&#34;_blank&#34;&gt;Reglab&lt;/a&gt;. How are AI models changing the burden of proof claimants face when litigating against an AI model?</description>
+    </item>
+    <item>
+      <title>AI, Creativity, and IP Questions</title>
+      <link>http://localhost:1313/hugo-website/books/book3/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/books/book3/</guid>
+      <description>How can we ensure creatives are being protected?</description>
+    </item>
+    <item>
+      <title>Global AI Governance Strategy Roadmap</title>
+      <link>http://localhost:1313/hugo-website/books/book1/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/books/book1/</guid>
+      <description>With rising geopolitical tensions, AI governance gets battled out on the global stage.</description>
+    </item>
+    <item>
+      <title>What is the relationship between race and the likelihood of getting stopped under stop-and-search laws in London?</title>
+      <link>http://localhost:1313/hugo-website/books/book2/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/books/book2/</guid>
+      <description>Legalst 123 project</description>
     </item>
   </channel>
 </rss>
