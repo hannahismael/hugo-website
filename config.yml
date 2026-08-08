@@ -16,12 +16,6 @@ menu:
         - name: Projects
           url: books/
           weight: 2
-        - name: CV
-          url: /feb2025_cv.pdf
-          weight: 3
-        - name: Personal Interests
-          url: personal/
-          weight: 4 
     
 
 params:
@@ -60,10 +54,6 @@ params:
               url: papers/
             - name: Projects
               url: books/
-            - name: CV
-              url: /hugo-website/feb2025_cv.pdf
-            - name: Personal Interests
-              url: personal/
         
     socialIcons:
         - name: Linkedin
