@@ -22,4 +22,4 @@ In light of AI fundamentally changing how artists' work is valued and created, w
 
 Insights from the Hollywood assemblies were cited by the [California Senate Judiciary Committee's hearing on AI and copyright](https://sjud.senate.ca.gov/system/files/2025-12/background-paper-dec-8-stanford-ai-and-copyright-joint-info-hearing_updated.pdf), and carried into the UN multilateral dialogue preceding the July 2026 Geneva convening through the [PAVE case book](https://pave.pairs.site/).
 
-That work now feeds a 300-page report in progress with USC Gould School of Law, building off [Copyforward](https://events.law.usc.edu/event/copyforward), a convening of legal scholars, artists, filmmakers, and guild representatives on AI, IP, and creative control.
+That work now feeds an interdisciplinary report in progress with USC Gould School of Law, building off [Copyforward](https://events.law.usc.edu/event/copyforward), where legal scholars, artists, and guild representatives mapped where IP law is failing creatives and drafted model contract clauses to make opting out enforceable.
