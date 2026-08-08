@@ -10,8 +10,7 @@ cover:
 editPost:
     URL: "https://www.mozillafoundation.org/en/creative-futures-imaginative-intelligences/"
     Text: "Mozilla Foundation"
-showToc: true
-TocOpen: true
+showToc: false
 disableAnchoredHeadings: false
 ---
 
