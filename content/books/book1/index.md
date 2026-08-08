@@ -1,9 +1,9 @@
 ---
 title: "Global AI Governance Strategy Roadmap" 
 date: 2025-12-01
+hideAuthor: true
 #lastmod: 2024-05-08
 #tags: ["Portugese","irregular verbs","philology"]
-author: ["Hannah Ismael"]
 #description: "This book discusses Portugese irregular verbs in great details."
 summary: "With rising geopolitical tensions, AI governance gets battled out on the global stage. A tiered strategy for steering global priorities toward transparent, accountable model development."
 cover:

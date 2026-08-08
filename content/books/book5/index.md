@@ -1,7 +1,7 @@
 ---
 title: "EncyclopAIdia: An AI Policy Glossary"
 date: 2026-03-01
-author: ["Hannah Ismael"]
+hideAuthor: true
 summary: "Tracing the etymology, definitional distinctions, and policy implications of contested terms in AI governance, with researchers at Carnegie Mellon University's CyLab."
 cover:
     alt: "EncyclopAIdia: An AI Policy Glossary"

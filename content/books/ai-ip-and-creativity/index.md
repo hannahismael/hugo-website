@@ -1,7 +1,7 @@
 ---
 title: "AI, IP, and Creativity"
 date: 2026-07-07
-author: ["Hannah Ismael"]
+hideAuthor: true
 description: "How can we ensure creatives are being protected?"
 summary: "How can we ensure creatives are being protected?"
 cover:

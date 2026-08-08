@@ -1,6 +1,7 @@
 ---
 title: "Evidentiary Burdens and AI Models"
 date: 2026-06-01
+hideAuthor: true
 summary: "How are AI systems changing the burden of proof claimants face in litigation? This work is now published at ACM FAccT 2026."
 cover:
   alt: "AI models make it harder to access evidence in certain claims. How?" 
