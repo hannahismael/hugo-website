@@ -1,6 +1,7 @@
 ---
 title: "Cascading Secrecy: Tensions between IP and Transparency Objectives"
 date: "2025-12-01"
+externalLink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5256463"
 #lastmod: 2024-07-12
 #tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Hannah Ismael", "Ziyaad Bhorat"]

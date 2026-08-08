@@ -74,7 +74,10 @@
     {{- partial "post_meta.html" . -}}
   </footer>
   {{- end }}
-  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  {{- $entryLink := .Permalink }}
+  {{- $isExternal := false }}
+  {{- with .Params.externalLink }}{{ $entryLink = . }}{{ $isExternal = true }}{{ end }}
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ $entryLink }}"{{ if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }}></a>
 </article>
 {{- end }}
 

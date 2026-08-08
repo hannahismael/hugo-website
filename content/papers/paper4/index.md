@@ -1,6 +1,7 @@
 ---
 title: "Barriers to Evidence in AI-Related Cases and the Privatization of Proof"
 date: "2026-06-01"
+externalLink: "https://arxiv.org/abs/2605.21816"
 author: ["Sarah H. Cen", "Hannah Ismael", "Lucia Zheng"]
 description: "Published in the proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT)."
 summary: "When decisive facts sit inside proprietary models, platform logs, and protected databases, who can actually prove a claim? This paper maps the asymmetries that block evidence in AI litigation and proposes a three-part test for resolving access disputes."

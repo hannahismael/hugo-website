@@ -2,6 +2,7 @@
 title: "Examining Generative Image Models Amidst Privacy Regulations" 
 #url: /publications/examining-generative-image-models/
 date: "2023-10-01"
+externalLink: "https://www.degruyter.com/document/doi/10.1515/jigs-2024-0009/html?lang=en"
 #lastmod: 2024-07-12
 #tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Hannah Ismael"]
