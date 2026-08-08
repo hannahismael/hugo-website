@@ -1,11 +1,11 @@
 ---
-title: "Imaginative Intelligences"
+title: "AI, IP, and Creativity"
 date: 2026-07-07
 author: ["Hannah Ismael"]
 description: "A participatory assembly series built to put creative workers' testimony into the AI governance record — cited by the California Senate Judiciary Committee and carried into the UN Global Dialogue on AI Governance."
 summary: "A participatory assembly series built to put creative workers' testimony into the AI governance record — cited by the California Senate Judiciary Committee and carried into the UN Global Dialogue on AI Governance."
 cover:
-    alt: "Imaginative Intelligences"
+    alt: "AI, IP, and Creativity"
     relative: false
 editPost:
     URL: "https://www.mozillafoundation.org/en/creative-futures-imaginative-intelligences/"
@@ -18,9 +18,9 @@ disableAnchoredHeadings: false
 
 ##### Overview
 
-[Imaginative Intelligences](https://www.mozillafoundation.org/en/creative-futures-imaginative-intelligences/) is a Mozilla Foundation series of artist-led participatory assemblies, run in Los Angeles with the [Berggruen Institute](https://berggruen.org/projects/imaginative-intelligences) and expanding city by city.
+This strand of my work asks how intellectual property and creative labor should be governed as AI reshapes how creative work is made and valued. Its main vehicle so far has been a series of artist-led participatory assemblies run at Mozilla Foundation, in Los Angeles with the [Berggruen Institute](https://berggruen.org/projects/imaginative-intelligences), and [continuing city by city](https://www.mozillafoundation.org/en/creative-futures-imaginative-intelligences/).
 
-My interest in it is a governance one. AI policy debates about creative work are argued largely between rights holders, platforms, and model developers. The people whose labor is actually at stake tend to enter the record late, and usually only through litigation or strike — by which point the terms of the argument are already set. Imaginative Intelligences was designed to produce a different input: structured, attributable, first-hand evidence from creative workers, in a form that legislatures and multilateral bodies can cite.
+My interest is a governance one. AI policy debates about creative work are argued largely between rights holders, platforms, and model developers. The people whose labor is actually at stake tend to enter the record late, and usually only through litigation or strike — by which point the terms of the argument are already set. The assemblies were designed to produce a different input: structured, attributable, first-hand evidence from creative workers, in a form that legislatures and multilateral bodies can cite.
 
 I co-edited the resulting synthesis report, *Creativity is Collective: Hollywood's 8 Rules for AI*, authored with 91 assembly participants.
 
