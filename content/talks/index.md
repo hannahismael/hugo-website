@@ -20,3 +20,6 @@ Participatory AI Research & Practice Symposium, India AI Impact Summit, 2026
 
 **Cascading Secrecy: Tensions Between IP and Transparency Objectives**  
 GigaNet Symposium, UN Internet Governance Forum, 2025
+
+**IP Incentive Structures Re-examined**  
+Mozilla Festival, 2025
