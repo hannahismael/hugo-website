@@ -2,7 +2,7 @@
 title: "Fair Use Glossary Guide"
 date: "2026-03-01"
 externalLink: "https://encylopaidia-production.up.railway.app/guides/fair_use"
-author: ["Claire Frank", "Hannah Ismael", "et al."]
+author: ["Claire Frank*", "Hannah Ismael*", "et al."]
 description: "Part of EncyclopAIdia, an AI policy glossary developed with researchers at Carnegie Mellon University's CyLab."
 summary: "A guide to how divergent fair use rulings could reshape AI training, licensing regimes, creative labor, unions, and the future of work."
 cover:
@@ -16,6 +16,8 @@ editPost:
 ---
 
 ##### Description
+
+\*Co-first authors.
 
 Written as part of *EncyclopAIdia*, an AI policy glossary developed with researchers at Carnegie Mellon University's CyLab that traces the etymology, definitional distinctions, and policy implications of contested terms in AI governance.
 
