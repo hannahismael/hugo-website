@@ -19,7 +19,7 @@ menu:
     
 
 params:
-    description: "Broadly, I am interested in how law and policy can enable knowledge sharing and publicly accountable AI governance. I hope to explore where existing frameworks fall short in creating an internet that meaningfully balances considerations such as privacy, transparency, security, and innovation. In the past, this has led me to focus on IP law, privacy regulations, and antitrust law. Additionally, in light of AI becoming a central priority in many national strategies, I’m particularly interested in how AI policy positions reveal underlying geopolitical concerns."
+    description: "Broadly, I am interested in how law and policy can enable knowledge sharing and publicly accountable governance of AI models. I hope to explore where existing frameworks fall short in creating an internet that meaningfully balances considerations such as privacy, transparency, security, and innovation. In the past, this has led me to focus on IP law, privacy regulations, and antitrust law. Additionally, in light of AI becoming a central priority in many national strategies, I’m particularly interested in how AI policy positions reveal underlying geopolitical concerns."
     author: Hannah Ismael
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -45,7 +45,7 @@ params:
     profileMode:
           enabled: true
           title: "Hannah Ismael"
-          subtitle: "Broadly, I am interested in how law and policy can enable knowledge sharing and publicly accountable AI governance. I hope to explore where existing frameworks fall short in creating an internet that meaningfully balances considerations such as privacy, transparency, security, and innovation. In the past, this has led me to focus on IP law, privacy regulations, and antitrust law. Additionally, in light of AI becoming a central priority in many national strategies, I’m particularly interested in how AI policy positions reveal underlying geopolitical concerns."
+          subtitle: "Broadly, I am interested in how law and policy can enable knowledge sharing and publicly accountable governance of AI models. I hope to explore where existing frameworks fall short in creating an internet that meaningfully balances considerations such as privacy, transparency, security, and innovation. In the past, this has led me to focus on IP law, privacy regulations, and antitrust law. Additionally, in light of AI becoming a central priority in many national strategies, I’m particularly interested in how AI policy positions reveal underlying geopolitical concerns."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
