@@ -16,9 +16,6 @@ menu:
         - name: Projects
           url: books/
           weight: 2
-        - name: AI, IP, and Creativity
-          url: ai-ip-and-creativity/
-          weight: 3
     
 
 params:
@@ -57,8 +54,6 @@ params:
               url: papers/
             - name: Projects
               url: books/
-            - name: AI, IP, and Creativity
-              url: ai-ip-and-creativity/
         
     socialIcons:
         - name: Linkedin

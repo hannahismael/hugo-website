@@ -1,6 +1,7 @@
 ---
 title: "Fair Use Glossary Guide"
 date: "2026-03-01"
+externalLink: "https://encylopaidia-production.up.railway.app/guides/fair_use"
 author: ["Claire Frank", "Hannah Ismael", "et al."]
 description: "Part of EncyclopAIdia, an AI policy glossary developed with researchers at Carnegie Mellon University's CyLab."
 summary: "A guide to how divergent fair use rulings could reshape AI training, licensing regimes, creative labor, unions, and the future of work."
@@ -8,6 +9,7 @@ cover:
     alt: "Fair Use Glossary Guide"
     relative: false
 editPost:
+    URL: "https://encylopaidia-production.up.railway.app/guides/fair_use"
     Text: "EncyclopAIdia — CyLab, Carnegie Mellon University"
 ---
 
@@ -21,6 +23,6 @@ This entry examines fair use: how divergent legal rulings on the use of copyrigh
 
 ---
 
-##### Download
+##### Read
 
-Forthcoming
++ [Fair Use Glossary Guide](https://encylopaidia-production.up.railway.app/guides/fair_use)
